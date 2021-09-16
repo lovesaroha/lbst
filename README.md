@@ -4,7 +4,7 @@ This is a generalized binary search tree package with clean and transparent API 
 ## Features
 - Lightweight and Fast.
 - Native Go implementation.
-- Supported data types (int , float64 , string).
+- Support all data types.
 
 ## Requirements
 - Go 1.9 or higher. We aim to support the 3 latest versions of Go.
